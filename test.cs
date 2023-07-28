@@ -7,7 +7,7 @@ namespace Test
         static void Main()
         {
             Console.WriteLine("¡Hola! Este es otro programa de prueba en C#.");
-            Console.WriteLine("Ingrese su nombre:");
+            Console.WriteLine("Ingrese el nombre:");
 
             // Leer el nombre ingresado por el usuario
             string nombre = Console.ReadLine();
