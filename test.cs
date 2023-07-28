@@ -13,7 +13,7 @@ namespace Test
             string nombre = Console.ReadLine();
 
             // Mostrar un saludo personalizado
-            Console.WriteLine($"¡Hola, {nombre}! Bienvenido al programa de prueba.");
+            Console.WriteLine($"¡Hola, {nombre}! Bienvenidx al programa de prueba.");
 
             // Realizar una operación matemática (por ejemplo, suma de dos números)
             int numero1 = 10;
