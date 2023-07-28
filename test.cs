@@ -15,7 +15,7 @@ namespace Test
             // Mostrar un saludo personalizado
             Console.WriteLine($"¡Hola, {nombre}! Bienvenido al programa de prueba.");
 
-            // Realizar una operación matemática (por ejemplo, suma de dos números)
+            // Realizar una operación matemática (ejemplo, suma de dos números)
             int numero1 = 10;
             int numero2 = 5;
             int resultado = numero1 + numero2;
