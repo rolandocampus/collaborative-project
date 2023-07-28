@@ -9,6 +9,7 @@ namespace PruebaCSharp
             Console.WriteLine("¡Hola! Este es un programa de prueba en C#.");
             Console.WriteLine("Ingrese el número entero:");
             
+            Console.WriteLine("Ingrese un número entero:");
             // Leer el número ingresado por el usuario
             string input = Console.ReadLine();
 
