@@ -15,7 +15,7 @@ namespace PruebaCSharp
             // Intentar convertir el número ingresado a entero
             if (int.TryParse(input, out int numero))
             {
-                // Realizar una operación matemática simple (por ejemplo, multiplicar por 2)
+                // Realizar una operación en matemática simple (por ejemplo, multiplicar por 2)
                 int resultado = numero * 2;
 
                 // Mostrar el resultado por pantalla
